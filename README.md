@@ -45,7 +45,8 @@ The framework consists of:
   - Multi-head attention for embedding aggregation
 
 - **Workflow**
-  ![Workflow](images/Workflow.png)
+  
+![Workflow](images/Workflow.png)
 ---
 
 ## Datasets
