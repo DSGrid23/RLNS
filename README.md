@@ -44,6 +44,8 @@ The framework consists of:
 - **Attention Mechanism**
   - Multi-head attention for embedding aggregation
 
+- **Workflow**
+  ![Workflow](images/Workflow.png)
 ---
 
 ## Datasets
@@ -82,8 +84,8 @@ RLNS demonstrates improved recommendation performance compared to traditional ne
 | Number of Interactions | 907,407 | 1,561,406 | 1,689,188 | 100,000 |
 | Density | 0.00016 | 0.00130 | 0.00014 | 0.06312 |
 
-
-
+  - **Comparision chart**
+![Workflow](images/Chart.png)
 The proposed approach improves recommendation accuracy and training effectiveness by selecting more informative hard negative samples.
 
 ---
